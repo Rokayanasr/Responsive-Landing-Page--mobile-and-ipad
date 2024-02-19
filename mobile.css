@@ -1,0 +1,39 @@
+.item-content{
+    flex-direction: column;
+}
+.secoundry-content , .main-content{
+    width: 100%;
+}
+.blog-cards{
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 70%;   
+    justify-content: center; 
+  }
+
+  .main-img{
+    width: 98%;
+  }
+  .myfoot div input {
+    width: 70%;
+}
+.right{
+    width:100%;
+    display: flex;
+   flex-wrap: wrap;
+   gap: 30px; 
+}
+footer{
+padding-bottom: 30px;
+}
+.ppp{
+margin-right: 235px;
+}
+footer .last{
+margin: 0%;
+padding-left: 40px;
+}
+.left{
+  padding: 0;
+  width: 100%;
+}
